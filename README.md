@@ -5,6 +5,10 @@ This is a template used for developing web project based on SpringMVC, Mybatis, 
 ## Finished Project
 
 ### MES
+A  project monitors real-time weaving 2.0.
+![MES.jpg](./主界面.jpg)
+
+***
 A  project monitors real-time weaving.
 ![MES.jpg](./MES.jpg)
 
